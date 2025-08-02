@@ -27,11 +27,6 @@
   <img src="https://streak-stats.demolab.com?user=fachriaziz&theme=radical" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fachriaziz&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
-
 ---
 
 ## 📌 Current Focus
