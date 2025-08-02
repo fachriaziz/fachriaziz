@@ -21,11 +21,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fachriaziz&show_icons=true&theme=radical" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fachriaziz&show_icons=true&theme=radical" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fachriaziz&theme=radical" width="90%"/>
+  <img src="https://streak-stats.demolab.com?user=fachriaziz&theme=radical" width="70%"/>
 </p>
 
 ---
