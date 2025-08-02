@@ -20,8 +20,17 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fachriaziz&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=fachriaziz&theme=radical)](https://git.io/streak-stats)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fachriaziz&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=fachriaziz&theme=radical" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fachriaziz&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
 
 ---
 
