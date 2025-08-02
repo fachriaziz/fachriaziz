@@ -1,6 +1,7 @@
 ## 👋 Hi there! I'm Fachri
 
-🎓 Informatics student | 🛠️ Backend & Automation Enthusiast  
+🎓 Informatics student
+🛠️ Backend & Automation Enthusiast  
 🚀 Always learning, always building — one script at a time.  
 
 ---
