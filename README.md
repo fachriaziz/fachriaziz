@@ -2,7 +2,7 @@
 
 🎓 Informatics student  
 🛠️ Backend & Automation Enthusiast  
-🚀 Always learning, always building — one script at a time.  
+🚀 Always learning, always building
 
 ---
 
