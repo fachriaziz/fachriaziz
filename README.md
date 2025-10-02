@@ -9,7 +9,7 @@
 ## 🔧 Skills & Tools
 
 - 🐍 **Python**
-- 🕸️ **Go**
+- 🕸️ **JS**
 - 🐘 **PostgreSQL**
 - 📦 **Redis**
 - 🐳 **Docker**
