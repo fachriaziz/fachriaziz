@@ -9,13 +9,8 @@
 ## 🔧 Skills & Tools
 
 - 🐍 **Python**
-- 🕸️ **JS**
 - 🐘 **PostgreSQL**
-- 📦 **Redis**
-- 🐳 **Docker**
-- 🛡️ **Linux**
 - 🧠 **Git** 
-- 📁 **API**
 
 ---
 
